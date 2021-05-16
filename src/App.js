@@ -1,4 +1,4 @@
-
+import React from 'react'
 import { Content } from './components/layer/Content'
 import {Header} from './components/layer/Header'
 
